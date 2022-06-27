@@ -19,7 +19,7 @@ spec:
         app: aspnet
     spec:
       containers:
-      - image: 839791487044.dkr.ecr.eu-west-1.amazonaws.com/aspnet:__IMG__
+      - image: 839791487044.dkr.ecr.eu-west-1.amazonaws.com/aspnet:IMG
         name: aspnet
         resources:
           requests:
